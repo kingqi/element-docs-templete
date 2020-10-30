@@ -1,0 +1,13 @@
+node_modules/
+
+public/
+
+dist/
+
+*.ico
+*.md
+*.scss
+*.css
+*.tpl
+**/element/theme/
+*.png

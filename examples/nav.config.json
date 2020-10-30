@@ -1,0 +1,16 @@
+[
+  {
+    "name": "组件",
+    "groups": [
+      {
+        "groupName": "数据展示",
+        "list": [
+          {
+            "path": "/table",
+            "title": "Table 表格"
+          }
+        ]
+      }
+    ]
+  }
+]
